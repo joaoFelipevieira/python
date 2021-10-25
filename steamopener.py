@@ -6,7 +6,7 @@ time.sleep(1)
 pyautogui.typewrite("Steam")
 pyautogui.press("Enter")
 time.sleep(10)
-pyautogui.typewrite ("jofevi123")
+pyautogui.typewrite ("suasenha")
 time.sleep(1)
 pyautogui.press("Enter")
 
